@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShikherRai
 - 👀 I’m interested in ...java,c#,cpp,python,react,js,Angular
-- 🌱 I’m currently learning ...C sharp,django,ML
+- 🌱 I’m currently learning ...C sharp,django,ML,MERN,JS,APEX,REACT,NATIVE,etc
 - 📫 How to reach me ...shikher.rai2023@sait.ac.in
 <!---
 ShikherRai/ShikherRai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
